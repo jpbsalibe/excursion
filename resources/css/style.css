@@ -1,0 +1,42 @@
+/*-- TAGS --*/
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    font-size: 21px;
+    color: gray;
+}
+
+h3 {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+header h1 {
+    font-weight: normal;
+    font-size 50px;
+}
+
+a {
+    text-decoration: underline;
+}
+
+/*-- CLASSES --*/
+
+.content h1 {
+    font-size: 42px;
+    font-weight: 300px;
+}
+
+.copy {
+    text-align: right;
+    color: gray;
+}
